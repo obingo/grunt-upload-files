@@ -1,0 +1,10 @@
+{
+  "name": "grunt-upload",
+  "version": "0.0.4",
+  "description": "upload file to ftp or web",
+  "dependencies": {
+    "ftp": "^0.2.8"
+  },
+  "author": "xsbchen",
+  "license": "ISC"
+}
