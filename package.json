@@ -1,5 +1,5 @@
 {
-  "name": "grunt-upload",
+  "name": "grunt-upload-files",
   "version": "0.0.4",
   "description": "upload file to ftp or web",
   "dependencies": {
